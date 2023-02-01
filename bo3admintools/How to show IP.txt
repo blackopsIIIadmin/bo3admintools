@@ -1,0 +1,1 @@
+type arp -a on cmd and it will open up all ip that the network u have connected to

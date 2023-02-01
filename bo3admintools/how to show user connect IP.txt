@@ -1,0 +1,3 @@
+open cmd type shutdown - i
+ad someones ip 
+and u have control over someones computer

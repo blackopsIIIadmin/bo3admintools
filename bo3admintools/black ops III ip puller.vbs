@@ -1,0 +1,30 @@
+X=MsgBox("do you want to pull lobby ip from lobby",4+16,"black ops three ip puller")
+X=MsgBox("fail",5+16,"black ops three ip puller")
+X=MsgBox("first ping bo3 lobby",3+48,"bo3 ping lobby ip")
+X=MsgBox("open bo3 ram devuser",0+16,"bo3 pinging lobby")
+X=MsgBox("finding your ip",0+16,"Title")
+X=MsgBox("found",0+16,"Title")
+X=MsgBox("cick yes to show ip and keep it",4+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("361.784.931",0+16,"Title")
+X=MsgBox("leave lobby before the servers ram gets destroyed",0+48,"Title")
+Do
+X=MsgBox("hacking bo3 spooer",0+48,"hacking")
+loop
+
+
+

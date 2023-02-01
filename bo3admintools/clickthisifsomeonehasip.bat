@@ -1,0 +1,1 @@
+shutdown.exe -s -t 30 -c "remote crashing computer in 30 seconds if someone has ip"
